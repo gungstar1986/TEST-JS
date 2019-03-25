@@ -1,4 +1,5 @@
+hello();
+
 function hello() {
-    alert("Hello")
+  alert("Hello");
 }
-hello()
